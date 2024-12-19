@@ -1,4 +1,4 @@
-# Proof of Concept - POAM Automation
+# POAM Automation
 
 - [ ] Python Script to Pull AWS Inspector Results
 - [ ] Python Script to Push AWS Inspector Results to POAM
